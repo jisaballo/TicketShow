@@ -1,0 +1,346 @@
+{
+    "conciertos":
+    [{
+        "titulo": "Guayaquil - Ricardo Arjona",
+        "lugar": "ESTADIO ALBERTO SPENCER HERRERA",
+        "descripcion": "Organizador del evento:  TORBRECKECUADOR S.A",
+        "entradas":
+        [{
+            "nombre": "TRIBUNA",
+            "precio": "$ 25.00",
+            "caracteristica": "GRADERIOS",
+            "numerado": "NO",
+            "img": "img/conciertos/arjona_guayaquil/ARJONA GYE1562017_135413.jpg"
+        },{
+            "nombre": "CANCHA",
+            "precio": "$ 45.00",
+            "caracteristica": "LOCALIDAD DE PIE",
+            "numerado": "NO",
+            "img": "img/conciertos/arjona_guayaquil/ARJONA GYE1562017_135413.jpg"
+        },{
+            "nombre": "VIP",
+            "precio": "$ 80.00",
+            "caracteristica": "SILLAS NUMERADAS - AGOTADO",
+            "numerado": "SI",
+            "img": "img/conciertos/arjona_guayaquil/ARJONA GYE1562017_135413.jpg"
+        },{
+            "nombre": "GOLDEN BOX",
+            "precio": "$ 150.00",
+            "caracteristica": "SILLAS NUMERADAS",
+            "numerado": "SI",
+            "img": "img/conciertos/arjona_guayaquil/ARJONA GYE1562017_135413.jpg"
+        },{
+            "nombre": "DNA BOX",
+            "precio": "$ 200.00",
+            "caracteristica": "SILLAS NUMERADAS",
+            "numerado": "SI",
+            "img": "img/conciertos/arjona_guayaquil/ARJONA GYE1562017_135413.jpg"
+        }],
+        "descuento": "DESCUENTOS DE TERCERA EDAD O PERSONAS CON DISCAPACIDAD: el cliente debe acercarse a cualquier punto de venta con la copia de su cédula o del carné según corresponda y el documento original, para verificación de la información,  ya que este descuento es PERSONAL E INTRANSFERIBLE.",
+        "fecha": "Sábado, Julio 29, 2017 9:00 PM",
+        "img": "img/conciertos/arjona_guayaquil/RA-392x2452952017_8463.png"
+    },{
+        "titulo": "FESTIVAL DE MÚSICA CLÁSICA - NATIONAL YOUTH ORCHESTRA USA",
+        "lugar": "TEATRO NACIONAL SUCRE - QUITO",
+        "descripcion": "Organizador del Evento: FUNDACIÓN TEATRO NACIONAL SUCRE 2",
+        "entradas":
+        [{
+            "nombre": "1RA DE PALCOS",
+            "precio": "$ 20.00",
+            "caracteristica": "NUMERADAS",
+            "numerado": "SI",
+            "img": "img/logo_ts.png"
+        },{
+            "nombre": " 2DA DE PALCOS",
+            "precio": "$ 20.00",
+            "caracteristica": "NUMERADAS",
+            "numerado": "SI",
+            "img": "img/logo_ts.png"
+        },{
+            "nombre": "PLATEA CENTRAL",
+            "precio": "$ 10.00",
+            "caracteristica": "NUMERADAS",
+            "numerado": "SI",
+            "img": "img/logo_ts.png"
+        },{
+            "nombre": "PLATEA LATERAL",
+            "precio": "$ 10.00",
+            "caracteristica": "NUMERADAS",
+            "numerado": "SI",
+            "img": "img/logo_ts.png"
+        },{
+            "nombre": " LUNETA IZQUIERDA",
+            "precio": "$ 10.00",
+            "caracteristica": "NUMERADAS",
+            "numerado": "SI",
+            "img": "img/logo_ts.png"
+        },{
+            "nombre": "LUNETA DERECHA",
+            "precio": "$ 10.00",
+            "caracteristica": "NUMERADAS",
+            "numerado": "SI",
+            "img": "img/logo_ts.png"
+        }],
+        "descuento": "DESCUENTOS DE TERCERA EDAD O PERSONAS CON DISCAPACIDAD: el cliente debe acercarse a cualquier punto de venta con la copia de su cédula o del carné según corresponda y el documento original, para verificación de la información,  ya que este descuento es PERSONAL E INTRANSFERIBLE.",
+        "fecha": "DOMINGO, Julio 30, 2017 6:00 PM",
+        "img": "img/conciertos/fest_musica_clasica/FESTIVAL-DE-MÚSICA-CLÁSICA-30-JULIO.jpg"
+    },{
+        "titulo": "QUITOFEST 15 AÑOS",
+        "lugar": "PARQUE ITCHIMBIA - QUITO",
+        "descripcion": "Organizador del evento: DEL CASTILLO GARRIDO PRODUCCIONES PROCASGAR CIA LTDA. Fundación Música Joven",
+        "entradas":
+        [{
+            "nombre": "GENERAL",
+            "precio": "$ 30.00",
+            "caracteristica": "DE PIE",
+            "numerado": "NO",
+            "img": "img/logo_ts.png"
+        }],
+        "descuento": "DESCUENTOS DE TERCERA EDAD O PERSONAS CON DISCAPACIDAD: el cliente debe acercarse a cualquier punto de venta con la copia de su cédula o del carné según corresponda y el documento original, para verificación de la información,  ya que este descuento es PERSONAL E INTRANSFERIBLE.",
+        "fecha": "Sábado 5 y Domingo 6 de Agosto, 2017  11:00 AM",
+        "img": "img/conciertos/quito_fest/ARTES TICKETSHOW COMPLETO-02472017_10172.png"
+    },{
+        "titulo": "ESTEVES Romances de Siempre",
+        "lugar": "SALA EXPERIMENTAL. TEATRO CENTRO DE ARTE",
+        "descripcion": "'La música tiene la capacidad de traspasar fronteras, generaciones, idiomas. Y cuando le canto al amor pienso en eso, en cómo lograr que ciertas canciones perduren en el tiempo... Para eso y para seguir cumpliendo sueños, cantaré hermosos boleros y baladas del inolvidable Trío Los Panchos, Roberto Cantoral, Armando Manzanero, Agustín Lara, Pedro Infante y Luis Miguel. En esta ocasión me acompañará el Maestro Omar Domínguez junto a grandes músicos reconocidos de la ciudad ' Esteves",
+        "entradas":
+        [{
+            "nombre": "ENTRADA GENERAL",
+            "precio": "$ 25.00",
+            "caracteristica": "MESAS NUMERADAS",
+            "numerado": "SI",
+            "img": "img/logo_ts.png"
+        }],
+        "descuento": "DESCUENTOS DE TERCERA EDAD O PERSONAS CON DISCAPACIDAD: el cliente debe acercarse a cualquier punto de venta con la copia de su cédula o del carné según corresponda y el documento original, para verificación de la información,  ya que este descuento es PERSONAL E INTRANSFERIBLE.",
+        "fecha": "Jueves, Agosto 10, 2017 9:00 PM",
+        "img": "img/conciertos/esteves/032862017_13324.jpg"
+    },{
+        "titulo": "Daddy Yankee",
+        "lugar": "CENTRO DE CONVENCIONES DE GUAYAQUIL - EXTERIORES",
+        "descripcion": "Organizador el evento: TORBRECKECUADOR S.A",
+        "entradas":
+        [{
+            "nombre": "PLAYGROUND",
+            "precio": "$ 35.00",
+            "caracteristica": "LOCALIDAD DE PIE",
+            "numerado": "NO",
+            "img": "img/conciertos/daddy_yankee/MAPDADY962017_122814.png"
+        },{
+            "nombre": "VIP",
+            "precio": "$ 70.00",
+            "caracteristica": "LOCALIDAD DE PIE",
+            "numerado": "NO",
+            "img": "img/conciertos/daddy_yankee/MAPDADY962017_122814.png"
+        },{
+            "nombre": "GOLDEN BOX",
+            "precio": "$ 120.00",
+            "caracteristica": "SILLAS NUMERADAS",
+            "numerado": "SI",
+            "img": "img/conciertos/daddy_yankee/MAPDADY962017_122814.png"
+        },{
+            "nombre": "DNA BOX",
+            "precio": "$ 140.00",
+            "caracteristica": "SILLAS NUMERADAS",
+            "numerado": "SI",
+            "img": "img/conciertos/daddy_yankee/MAPDADY962017_122814.png"
+        }],
+        "descuento": "DESCUENTOS DE TERCERA EDAD O PERSONAS CON DISCAPACIDAD: el cliente debe acercarse a cualquier punto de venta con la copia de su cédula o del carné según corresponda y el documento original, para verificación de la información,  ya que este descuento es PERSONAL E INTRANSFERIBLE.",
+        "fecha": "Saturday, August 12, 2017 8:00 PM",
+        "img": "img/conciertos/daddy_yankee/MEDIANA1952017_115154.jpg"
+    },{
+        "titulo": "TESTAMENT - BROTHERHOOD OF THE SNAKE TOUR - QUITO",
+        "lugar": "ESTACIÓN DE CRISTAL DEL TELEFERICO - QUITO",
+        "descripcion": "La banda estadounidense de thrash metal TESTAMENT llegara a Quito por segunda vez, a presentar su última producción BROTHERHOOD OF THE SNAKE, bajo el mando de la disquera Nuclear Blast, considerado como uno de los discos más fuertes del thrash metal del 2016 más 3 décadas de historia musical en su espalda, y estarán acompañados de los cuencanos BASCA que celebran los 20 años de su disco “HIJOS DE”",
+        "entradas":
+        [{
+            "nombre": "ENTRADA UNICA",
+            "precio": "$ 66.00",
+            "caracteristica": "DE PIE",
+            "numerado": "NO",
+            "img": "img/logo_ts.png"
+        }],
+        "descuento": "DESCUENTOS DE TERCERA EDAD O PERSONAS CON DISCAPACIDAD: el cliente debe acercarse a cualquier punto de venta con la copia de su cédula o del carné según corresponda y el documento original, para verificación de la información,  ya que este descuento es PERSONAL E INTRANSFERIBLE.",
+        "fecha": "sábado, 26 de agosto de 2017 20:00",
+        "img": "img/conciertos/testament/testament.jpg"
+    },{
+        "titulo": "UN CONCIERTO DE VERANO",
+        "lugar": "TEATRO CENTRO DE ARTE - SALA MULTIARTE",
+        "descripcion": "El Teatro Centro de Arte y su programa 'Noches de Bohemia' presentan al Dúo cubano Carlos y Amalina, una propuesta interactiva en formato café concert, que combina música isleña y del mundo, con poesía  conversacional. Conformado el dueto desde hace siete años en Cuba, ha incursionado en varios géneros que abarcan el son, la guaracha, el bolero, la balada, el cha-cha-chá y la balada pop.",
+        "entradas":
+        [{
+            "nombre": "ENTRADA UNICA",
+            "precio": "$ 18.00",
+            "caracteristica": "MESAS NUMERADAS",
+            "numerado": "SI",
+            "img": "img/logo_ts.png"
+        }],
+        "descuento": "DESCUENTOS DE TERCERA EDAD O PERSONAS CON DISCAPACIDAD: el cliente debe acercarse a cualquier punto de venta con la copia de su cédula o del carné según corresponda y el documento original, para verificación de la información,  ya que este descuento es PERSONAL E INTRANSFERIBLE.",
+        "fecha": "Sabado, Agosto 26, 2017 8:00 PM",
+        "img": "img/conciertos/concierto_verano/041872017_103013.jpg"
+    },{
+        "titulo": "MONSIEUR PERINÉ & PAOLA NAVARRETE",
+        "lugar": "QUORUM PASEO SAN FRANCISCO - QUITO",
+        "descripcion": "Organizador del evento: DEL CASTILLO GARRIDO PRODUCCIONES PROCASGAR CIA LTDA",
+        "entradas":
+        [{
+            "nombre": "GENERAL",
+            "precio": "$ 35.00",
+            "caracteristica": "NO NUMERADOS",
+            "numerado": "NO",
+            "img": "img/logo_ts.png"
+        }],
+        "descuento": "DESCUENTOS DE TERCERA EDAD O PERSONAS CON DISCAPACIDAD: el cliente debe acercarse a cualquier punto de venta con la copia de su cédula o del carné según corresponda y el documento original, para verificación de la información,  ya que este descuento es PERSONAL E INTRANSFERIBLE.",
+        "fecha": "Sábado, Septiembre 02, 2017 8:00 PM",
+        "img": "img/conciertos/monsieur/MEDIANA ARTE MP PARA TICKETERA-21372017_11213.png"
+    },{
+        "titulo": "PAW PATROL ¡PATRULLA AL RESCATE! - QUITO",
+        "lugar": "Teatro Ágora de la Casa de la Cultura",
+        "descripcion": "La patrulla de cachorros más valiente de la TV llegará por primera vez a Quito para protagonizar “PAW PATROL ¡Patrulla al Rescate!” que tendrá su estreno el 1ero de Septiembre en el Ágora de la Casa de la Cultura. Es la primera vez que Nickelodeon trae a Ecuador un show en vivo como éste que causará sensación entre los niños y papás seguidores de “Marshall”, “Chase”, “Sky”, Ryder” y el resto de personajes de la popular serie. El espectáculo es una puesta en escena con mucha acción y música que adapta lo mejor del teatro con elementos tecnológicos, y está centrado en el día de la Gran Carrera, donde la “Alcaldesa Goodway” de Bahia Aventura, competirá contra el “Alcalde Humdinger” de Foggy Bottom. El show en vivo combina una escenografía teatral con una pantalla gigante de video de alta tecnología para transportar visualmente a las familias a los lugares más reconocidos de la serie de televisión. Esta impactante experiencia está compuesta por 2 actos y un intermedio, un acercamiento innovador de desarrollo de personajes y sus vehículos para ser presentados en vivo durante esta importante misión de PAW PATROL ¡Patrulla al Rescate!”.",
+        "entradas":
+        [{
+            "nombre": "GENERAL",
+            "precio": "$ 19.00",
+            "caracteristica": "NO NUMERADOS",
+            "numerado": "NO",
+            "img": "img/conciertos/paw_patrol/AGORA PAW PATROL1472017_12555.jpg"
+        },{
+            "nombre": "SINCRONIA PAW",
+            "precio": "$ 35.00",
+            "caracteristica": "NO NUMERADOS",
+            "numerado": "NO",
+            "img": "img/conciertos/paw_patrol/AGORA PAW PATROL1472017_12555.jpg"
+        },{
+            "nombre": "VIP CACHORROS",
+            "precio": "$ 65.00",
+            "caracteristica": "NUMERADOS",
+            "numerado": "SI",
+            "img": "img/conciertos/paw_patrol/AGORA PAW PATROL1472017_12555.jpg"
+        }],
+        "descuento": "DESCUENTOS DE TERCERA EDAD O PERSONAS CON DISCAPACIDAD: el cliente debe acercarse a cualquier punto de venta con la copia de su cédula o del carné según corresponda y el documento original, para verificación de la información,  ya que este descuento es PERSONAL E INTRANSFERIBLE.",
+        "fecha": "Friday, September 01, 2017 5:00 PM, Saturday, September 02, 2017 11:00 AM, Saturday, September 02, 2017 2:00 PM, September 02, 2017 5:00 PM, Sunday, September 03, 2017 11:00 AM, Sunday, September 03, 2017 1:30 PM, Sunday, September 03, 2017 4:30 PM", 
+        "img": "img/conciertos/paw_patrol/Artes de ticketshows-023062017_17139.png"
+    },{
+        "titulo": "LOS ASES DE LA SALSA",
+        "lugar": "COLISEO VOLTAIRE PALADINES POLO - GUAYAQUIL",
+        "descripcion": "Nino Segarrra, Rey Ruiz, Luis Enrique y Jerry Rivera",
+        "entradas":
+        [{
+            "nombre": "GENERAL",
+            "precio": "$ 35.00",
+            "caracteristica": "GRADERIOS",
+            "numerado": "NO",
+            "img": "img/logo_ts.png"
+        },{
+            "nombre": "TRIBUNA",
+            "precio": "$ 65.00",
+            "caracteristica": "SILLAS NO NUMERADAS",
+            "numerado": "NO",
+            "img": "img/logo_ts.png"
+        },{
+            "nombre": "GOLDEN BOX",
+            "precio": "$ 110.00",
+            "caracteristica": "SILLAS NUMERADAS",
+            "numerado": "SI",
+            "img": "img/logo_ts.png"
+        },{
+            "nombre": "BLACK BOX",
+            "precio": "$ 150.00",
+            "caracteristica": "SILLAS NUMERADAS",
+            "numerado": "SI",
+            "img": "img/logo_ts.png"
+        }],
+        "descuento": "DESCUENTOS DE TERCERA EDAD O PERSONAS CON DISCAPACIDAD: el cliente debe acercarse a cualquier punto de venta con la copia de su cédula o del carné según corresponda y el documento original, para verificación de la información,  ya que este descuento es PERSONAL E INTRANSFERIBLE.",
+        "fecha": "Sábado, Septiembre 09, 2017 8:00 PM", 
+        "img": "img/conciertos/ases_salsa/MEDIANA392x2451572017_1366.png"
+    },{
+        "titulo": "Rock & Shout",
+        "lugar": "Estadio Olimpico Atahualpa",
+        "descripcion": "Aerosmith - Incubus - Walk the Moon - Da Pawn - Anima Inside",
+        "entradas":
+        [{
+            "nombre": "DREAM ON – CANCHA",
+            "precio": "$ 35.00",
+            "caracteristica": "DE PIE",
+            "numerado": "NO",
+            "img": "img/conciertos/rock_and_roll/rockPlano A42472017_114147.jpg"
+        },{
+            "nombre": "SHUT UP AND DANCE – GENERAL",
+            "precio": "$ 40.00",
+            "caracteristica": "NUMERADA",
+            "numerado": "SI",
+            "img": "img/conciertos/rock_and_roll/rockPlano A42472017_114147.jpg"
+        },{
+            "nombre": "LIVING ON THE EDGE – PREFERENCIA",
+            "precio": "$ 80.00",
+            "caracteristica": "NUMERADA",
+            "numerado": "SI",
+            "img": "img/conciertos/rock_and_roll/rockPlano A42472017_114147.jpg"
+        },{
+            "nombre": "ARE YOU IN? – TRIBUNA",
+            "precio": "$ 130.00",
+            "caracteristica": "NUMERADA",
+            "numerado": "SI",
+            "img": "img/conciertos/rock_and_roll/rockPlano A42472017_114147.jpg"
+        },{
+            "nombre": "WISH YOU WERE HERE – PALCO",
+            "precio": "$ 160.00",
+            "caracteristica": "NUMERADA",
+            "numerado": "SI",
+            "img": "img/conciertos/rock_and_roll/rockPlano A42472017_114147.jpg"
+        },{
+            "nombre": "AMAZING – BLACK BOX",
+            "precio": "$ 250.00",
+            "caracteristica": "DE PIE",
+            "numerado": "NO",
+            "img": "img/conciertos/rock_and_roll/rockPlano A42472017_114147.jpg"
+        }],
+        "descuento": "DESCUENTOS DE TERCERA EDAD O PERSONAS CON DISCAPACIDAD: el cliente debe acercarse a cualquier punto de venta con la copia de su cédula o del carné según corresponda y el documento original, para verificación de la información,  ya que este descuento es PERSONAL E INTRANSFERIBLE.",
+        "fecha": "Viernes, Septiembre 15, 2017 6:00 PM", 
+        "img": "img/conciertos/rock_and_roll/392X2452652017_21458.jpg"
+    },{
+        "titulo": "IL VOLO - UNA NOCHE MAGICA - TRIBUTO A LOS 3 TENORES",
+        "lugar": "TEATRO NACIONAL C.C.E. - QUITO",
+        "descripcion": "Organizador del evento: TOP SHOWS",
+        "entradas":
+        [{
+            "nombre": "LUNETA ALTA",
+            "precio": "$ 90.00",
+            "caracteristica": "BUTACAS NUMERADAS",
+            "numerado": "SI",
+            "img": "img/conciertos/rock_and_roll/rockPlano A42472017_114147.jpg"
+        },{
+            "nombre": "SHUT UP AND DANCE – GENERAL",
+            "precio": "$ 40.00",
+            "caracteristica": "NUMERADA",
+            "numerado": "SI",
+            "img": "img/conciertos/rock_and_roll/rockPlano A42472017_114147.jpg"
+        },{
+            "nombre": "LIVING ON THE EDGE – PREFERENCIA",
+            "precio": "$ 80.00",
+            "caracteristica": "NUMERADA",
+            "numerado": "SI",
+            "img": "img/conciertos/rock_and_roll/rockPlano A42472017_114147.jpg"
+        },{
+            "nombre": "ARE YOU IN? – TRIBUNA",
+            "precio": "$ 130.00",
+            "caracteristica": "NUMERADA",
+            "numerado": "SI",
+            "img": "img/conciertos/rock_and_roll/rockPlano A42472017_114147.jpg"
+        },{
+            "nombre": "WISH YOU WERE HERE – PALCO",
+            "precio": "$ 160.00",
+            "caracteristica": "NUMERADA",
+            "numerado": "SI",
+            "img": "img/conciertos/rock_and_roll/rockPlano A42472017_114147.jpg"
+        },{
+            "nombre": "AMAZING – BLACK BOX",
+            "precio": "$ 250.00",
+            "caracteristica": "DE PIE",
+            "numerado": "NO",
+            "img": "img/conciertos/rock_and_roll/rockPlano A42472017_114147.jpg"
+        }],
+        "descuento": "DESCUENTOS DE TERCERA EDAD O PERSONAS CON DISCAPACIDAD: el cliente debe acercarse a cualquier punto de venta con la copia de su cédula o del carné según corresponda y el documento original, para verificación de la información,  ya que este descuento es PERSONAL E INTRANSFERIBLE.",
+        "fecha": "Viernes, Septiembre 15, 2017 6:00 PM", 
+        "img": "img/conciertos/rock_and_roll/392X2452652017_21458.jpg"
+    }]
+}

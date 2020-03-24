@@ -30,7 +30,7 @@ $app-direction: ltr;
 // Named colors makes it easy to reuse colors on various components.
 // It's highly recommended to change the default colors
 // to match your app's branding. Ionic uses a Sass map of
-// colors so you can add, rename and remove colors as needed.
+// colors so you can add, rename and remove col,ors as needed.
 // The "primary" color is the only required color in the map.
 
 $colors: (
@@ -38,7 +38,8 @@ $colors: (
   secondary:  #32db64,
   danger:     #f53d3d,
   light:      #f4f4f4,
-  dark:       #222
+  dark:       #222,
+  tShow:      #603a75
 );
 
 

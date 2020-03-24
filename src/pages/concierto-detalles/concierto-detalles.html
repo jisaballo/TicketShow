@@ -1,0 +1,27 @@
+<!--
+  Generated template for the ConciertoDetallesPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+  <ion-navbar color="tShow">
+    <ion-title>Detalles</ion-title>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content padding>
+  <h4>{{concierto.titulo}}</h4>
+    <p>{{concierto.fecha}}</p>
+    <p>{{concierto.lugar}}</p>
+    <img src="{{concierto.img}}"/>
+    <p>{{concierto.descripcion}}</p>
+    <ion-list no-lines>
+      <ion-list-header color="tShow">Entradas</ion-list-header>
+      <button ion-item *ngFor="let item of concierto.entradas; let i = index" (click)="entrada(i)">
+        {{item.nombre}}<ion-icon name="arrow-dropright" item-end></ion-icon>
+      </button>
+      <ion-item-divider></ion-item-divider>
+    </ion-list>
+</ion-content>
